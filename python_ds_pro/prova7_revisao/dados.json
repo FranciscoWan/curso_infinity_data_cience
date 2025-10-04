@@ -1,0 +1,17 @@
+{
+    "fazenda_a": {
+        "2021": {"milho": 50, "trigo": 40, "soja": 20},
+        "2022": {"milho": 55, "trigo": 45, "soja": 30},
+        "2023": {"milho": 20, "trigo": 10, "soja": 25}
+    },
+    "fazenda_b": {
+        "2021": {"milho": 40, "trigo": 20, "soja": 10},
+        "2022": {"milho": 35, "trigo": 45, "soja": 50},
+        "2023": {"milho": 10, "trigo": 15, "soja": 35}
+    },
+    "fazenda_c": {
+        "2021": {"milho": 60, "trigo": 30, "soja": 15},
+        "2022": {"milho": 85, "trigo": 55, "soja": 70},
+        "2023": {"milho": 10, "trigo": 15, "soja": 15}
+    }
+}
